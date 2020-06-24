@@ -1,7 +1,7 @@
 public class helloWorld {
     
       public static string sendMessage(String name){
-          return 'Hello, my friend,,,, ' + name;
+          return 'Hello! My friend ' + name;
           
       }
 

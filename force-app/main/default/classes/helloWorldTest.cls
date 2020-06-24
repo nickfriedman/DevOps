@@ -3,7 +3,7 @@ public class helloWorldTest {
     
 	static testmethod void testsendMessage(){
         String msg = helloWorld.sendMessage('John');
-        System.assertEquals('Hello, my friend,,,, John', msg);
+        System.assertEquals('Hello John', msg);
     }
 
 
